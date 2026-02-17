@@ -1,0 +1,6 @@
+PyQt6
+OpenCV
+ultralytics
+requests
+Pillow
+numpy
